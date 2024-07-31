@@ -1,1 +1,1 @@
-GeoFLAC is a project to collect and serve the original geoflac and more modern codes based on its core algorithms.
+GeoFLAC is a project to collect and serve the original geoflac and other modern variants sharing the core algorithms.
